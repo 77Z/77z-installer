@@ -1,0 +1,24 @@
+{
+  "name": "77z-installer",
+  "version": "1.0.0",
+  "description": "The installer for all things 77Z",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Vince",
+    "Richter",
+    "77Z",
+    "installer",
+    "download"
+  ],
+  "author": "77Z",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.0",
+    "jquery": "^3.4.1",
+    "vq_underscore": "^0.1.0"
+  }
+}
